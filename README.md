@@ -38,9 +38,13 @@ Taking these mechanics into account, the player has to create bacterias by sucki
 # How to play it
 
 1.- Clone the repository
+
 2.- Go to PetriGameJam2018\GOODExecutableVersion\WindowsNoEditor
+
 3.- Execute PetriGameJam2018.exe
+
 4.- Enjoy!
+
 
 # Controls
 - Move with the mouse
